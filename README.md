@@ -30,8 +30,8 @@ Berikut beberapa hal yang perlu kita ilmui tentang keutamaan menghafal AlQuran:
 
 Library contains all credits for making video, i dont own videos, audios, and pictures
 git
-|Number     |Part Overview |Masjid Description  |Code (JUZ_PAGE_PART)   |Qari |Credits (yt/tt/ig) of (vid/aud/pict,text)|
+|Number    |Code (JUZ_PAGE_PART)  |Part Overview |Masjid Description    |Qari |Credits (yt/tt/ig) of (vid/aud/pict,text)|
 |----------------------|-----|------------------------------------------------------------------------------------------------|---------|---------|---------|
-|[<img src="/id/2.jpg" height="50"/>](image.png) [1.Masjid](pub.dev/packages/dartz)                |Surat ke-114, an-Naas, artinya Manusia, lengkap ayat 1-6. Kandungannya tentang berlindung dan membentengi diri kepada Allah dari kejahatan setan dan bisikannya serta dari kejahatan-kejahatan yang tersembunyi  |   |`30_604_3`  |Mishary||
+|[<img src="/id/2.jpg" height="50"/>](image.png) [1.Masjid](pub.dev/packages/dartz)          |`30_604_3`       Surat ke-114, an-Naas, artinya Manusia, lengkap ayat 1-6.    | Kandungannya tentang berlindung dan membentengi diri kepada Allah dari kejahatan setan dan bisikannya serta dari kejahatan-kejahatan yang tersembunyi  ||Mishary||
 
 
